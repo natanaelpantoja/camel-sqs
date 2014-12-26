@@ -1,0 +1,7 @@
+*.class
+build
+target
+.classpath
+.project
+.settings
+.metadata
